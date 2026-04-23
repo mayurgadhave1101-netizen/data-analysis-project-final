@@ -23,7 +23,5 @@ The project analyzes how diamond characteristics such as carat, cut, color, clar
 
 ## Student Details
 - **Name:** Mayur Gadhave
-- **Roll Number:** Add your roll number before submission
+- **Roll Number:** SA213
 
-## Note
-Upload these files to your GitHub repository and paste the repository link into the PDF before submitting.
